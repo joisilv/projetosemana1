@@ -1,0 +1,66 @@
+.parte1 h1 {
+		color: white;
+	}
+
+p {
+  font-family:arial;
+margin-left: 41px;
+margin-right: 41px;
+}
+
+#container {
+  display: inline-block;
+  position: relative;
+}
+
+#container figcaption {
+    position: absolute;
+    top: 114px;
+    right: -65px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 0px 0px 15px black;
+}
+
+.parte2 h1{
+	border: 2px solid black;
+	width: 239px;
+
+}
+
+.parte1 img {
+
+margin-left: 434px;
+	height: 266px;
+	width: 50%;
+   
+}
+
+.parte1 {
+	background-color: grey;
+	border: 2px solid blue;
+
+}
+
+.rodape  img {
+	height: 169px;
+	margin: 30px;
+	
+
+
+}
+
+
+footer {
+	background-color: #3FBF70;
+	color: white;
+
+
+}
+
+.rodape .paragrafo {
+	width: 300px;
+	float: left;
+    	margin: 15px 15px 15px 15px;
+
+}
